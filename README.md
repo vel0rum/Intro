@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Beginning - 16/11/20
 
-You cannnnnnnnnn use the [editor on GitHub](https://github.com/vel0rum/PTS/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I decided a while ago that I want to become a pentester and I've developed a little knowledgebase already (nothing fancy, just a bit of coding and network/web stuff). But I've decided to get serious about it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm 25 years old and in a good job at the moment; my role is quite broad but *can* involve information/cyber security at times, mainly blue stuff and nothing too technical. I have to stay in for the next 3 years but I'll definitely want to leave and get a pentesting job after that. 
 
-### Markdown
+To that end, I'm going to spend the next three years trying to learn everything I can about pentesting and I'll document the whole thing here. Hopefully by the end this will be something interesting to look back on, and maybe help some other people. I'm sure I'll make mistakes but that's what will make it fun.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My plan
 
-```markdown
-Syntax highlighted code block
+I think the best place to start is programming/scripting. I already have some experience with C++ and Python, including some big object-oriented projects a few years ago but not much since then. From what I can tell, these are good languages to know as a pentester, so I'll spend the first part of my journey re-learning those.
 
-# Header 1
-## Header 2
-### Header 3
+After that, I think the next best thing to do is to understand Operating Systems. Both in general, and specific ones (windows and linux). This will include learning bash. I'll try to find a sysadmin course somewhere. I've seen a couple floating about but they're far too expensive. 
 
-- Bulleted
-- List
+Having a good coding background as well as in depth knowledge of windows and linux operating systems would be a great start. I already have a pretty good understanding of networks but that *would* be the next logical point to revise.
 
-1. Numbered
-2. List
+I've already bought eLearnSecurity's Penetration Testing Student course so I'll do that early next year to put into practise everything I will have already learned. 
 
-**Bold** and _Italic_ and `Code` text
+Then we'll go from there, I should have a pretty strong base to expand by that point and I may want to go deeper into web or network systems. (I don't know yet whether it's worth learning things like JavaScript, PHP or HTML but I'll cross that bridge when I come to it.
 
-[Link](url) and ![Image](src)
-```
+By the end of the three years I want to be well prepared for a pentesting career, with several qualifications and a good technical skillset. Like I said earlier, I'll document everything here, mostly for me to read but maybe someday someone else will too.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vel0rum/PTS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Vel0rum.
