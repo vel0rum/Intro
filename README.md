@@ -21,3 +21,5 @@ Then we'll go from there, I should have a pretty strong base to expand by that p
 By the end of the three years I want to be well prepared for a pentesting career, with several qualifications and a good technical skillset. Like I said earlier, I'll document everything here, mostly for me to read but maybe someday someone else will too.
 
 Vel0rum.
+
+Edit: INE is releasing their cyber security pass at 40% off this week. It's normally $2k but now it's $1.2 = £900. This is a great deal so I'm going to get it. I'll just use the money I saved from not going on holidays this year thanks to COVID. This pass includes courses for both Blue and Red Teaming, beginners all they way up to advanced. I'll learn as much as I can and then take the exams and get the qualifications for the ones I think are important/relevant to my interests. 
